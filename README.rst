@@ -16,10 +16,6 @@ If you have some hard time understanding OAuth2, you can read a simple explanati
 Installation
 ------------
 
-Install with pip::
-
-    pip install django-rest-framework-social-oauth2
-
 
 Add the following to your ``INSTALLED_APPS``:
 
